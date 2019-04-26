@@ -12,7 +12,7 @@ np .\sudo.cmd
 
 sudo.cmd - Creates a process with administrator privileges. 
 ```
-sudo cmd
+sudo powershell
 ```
 
 touch.bat - Will create an empty file. 
